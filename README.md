@@ -2,9 +2,10 @@
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 ```
-Developed by: KAVINRAJA D
-RegisterNumber: 212222240047
-```
+Developed by: SANTHOSH SUDHAKAR
+
+Register no: 24005023
+
 
 **AIM:**
 
