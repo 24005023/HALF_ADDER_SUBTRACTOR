@@ -1,11 +1,10 @@
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
-```
+
 Developed by: SANTHOSH SUDHAKAR
 
-Register no: 24005023
-
+RegisterNumber: 24005023
 
 **AIM:**
 
@@ -86,6 +85,12 @@ HALF ADDER:
 ![DE E-3 adder](https://github.com/04Varsha/HALF_ADDER_SUBTRACTOR/assets/149035374/8efe7503-fea8-4272-bf8b-0e334e95cdb1)
 
 HALF SUTRACTOR:
+
+![DE E-3 subtractor](https://github.com/04Varsha/HALF_ADDER_SUBTRACTOR/assets/149035374/5bd0588f-6b33-4352-bfb0-2e33f3f77f13)
+
+
+**Result:**
+The code is excecuted successfully.
 
 ![DE E-3 subtractor](https://github.com/04Varsha/HALF_ADDER_SUBTRACTOR/assets/149035374/5bd0588f-6b33-4352-bfb0-2e33f3f77f13)
 
